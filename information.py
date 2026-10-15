@@ -1,4 +1,4 @@
 
 name = input('What is your name?')
-
-print(f"your name is: {name}!")
+age = input('How old are you?')
+print(f"{name} is {age} years old!")
